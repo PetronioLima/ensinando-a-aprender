@@ -1,13 +1,78 @@
+/*
+    CSS
+    cor principal #0A6935
+*/
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* tags */
 body {
     font-family: sans-serif;
+    background-color: blanchedalmond;
 }
 
-header {
-    height: 30%;
+footer {
+    background-color: #0a6935;
+    color: antiquewhite;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    padding-left: 5px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
+
+a.link:hover {
+    color: #0a6935;
+    text-decoration: none;
+}
+
+a.link:active {
+    color: #0a6935;
+    text-decoration: none;
+}
+
+a.link:visited {
+    color: #003a1d;
+    text-decoration: none;
+}
+
+.classHeader {
+    font-family: sans-serif;
+    color: #0a6935;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    padding-left: 5px;   
+}
+
+.centerText {
+    text-align: center;
+}
+
+.centerPage {
+    text-align: center;
+    padding: 35px;
+}
+
+.imgSite {
+    height: 250px;
+    width: 550px;
 }
