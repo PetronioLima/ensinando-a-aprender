@@ -79,16 +79,18 @@ a.link:visited {
 
 .imgLeft {
     border-radius: 5px;
-    width: 95px;
-    height: 105px;
+    width: 85px;
+    height: 95px;
     float: left;
     text-align: left;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .imgRight {
     border-radius: 5px;
-    width: 95px;
-    height: 105px;
+    width: 85px;
+    height: 95px;
     float: right;
     text-align: right;
+    font-family: 'Courier New', Courier, monospace;
 }
