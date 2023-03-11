@@ -77,18 +77,10 @@ a.link:visited {
     width: 550px;
 }
 
-.imgLeft {
+.imgDeveloper {
     border-radius: 5px;
     width: 85px;
     height: 95px;
-    float: left;
     font-family: 'Courier New', Courier, monospace;
 }
 
-.imgRight {
-    border-radius: 5px;
-    width: 85px;
-    height: 95px;
-    float: right;
-    font-family: 'Courier New', Courier, monospace;
-}
