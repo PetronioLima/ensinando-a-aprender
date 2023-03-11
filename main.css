@@ -79,16 +79,16 @@ a.link:visited {
 
 .imgLeft {
     border-radius: 5px;
-    width: 25px;
-    height: 35px;
+    width: 45px;
+    height: 65px;
     float: left;
     text-align: left;
 }
 
 .imgRight {
     border-radius: 5px;
-    width: 25px;
-    height: 35px;
-    float: left;
-    text-align: left;
+    width: 45px;
+    height: 65px;
+    float: right;
+    text-align: right;
 }
