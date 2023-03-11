@@ -92,10 +92,3 @@ a.link:visited {
     float: right;
     text-align: right;
 }
-
-.p_developer {
-    padding: 5px;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: justify;
-    color: black;  
-}
