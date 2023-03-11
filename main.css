@@ -76,3 +76,19 @@ a.link:visited {
     height: 250px;
     width: 550px;
 }
+
+.imgLeft {
+    border-radius: 5px;
+    width: 25px;
+    height: 35px;
+    float: left;
+    text-align: left;
+}
+
+.imgRight {
+    border-radius: 5px;
+    width: 25px;
+    height: 35px;
+    float: left;
+    text-align: left;
+}
